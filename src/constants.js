@@ -1,1 +1,1 @@
-export const DB_NAME = "Sanskriti"
+export const DB_NAME = "WatchPlus"
